@@ -9,4 +9,6 @@ My shell
 
 在 .bashrc 中 source logintmux.sh, 然后执行 logintmux
 
+### ssh-allow-friend.sh 
 
+* 来源：https://github.com/flplv/ssh-allow-friend/blob/master/ssh-allow-friend
